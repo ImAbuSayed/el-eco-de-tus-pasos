@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-eco-de-tus-pasos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El eco de tus pasos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-eco-de-tus-pasos/) |
+| **Get License** | [Commercial Licensing for El eco de tus pasos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-eco-de-tus-pasos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3187)
 
 ---
 
