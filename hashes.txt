@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El eco de tus pasos
+
+This log tracks the cryptographic history and versioning for the song **El eco de tus pasos** (el-eco-de-tus-pasos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:47:33.455033 | `v1` | `5935f6074aae2c9b98d035aa06a995d7fb93d204c989ba6b956c611fd19dbaf3` | `46322014081e69dbf6d1b925a8da2fc424c259331881b9fd75a4222b9f0429c3` | `2026-06-13_el-eco-de-tus-pasos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
