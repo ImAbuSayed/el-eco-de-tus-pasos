@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-eco-de-tus-pasos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El eco de tus pasos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-eco-de-tus-pasos/) |
+| **Get License** | [Music Rights & Licensing for El eco de tus pasos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-eco-de-tus-pasos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el eco de tus pasos por la madrugá',
+> Nena, tú me dejaste el alma hackeá'.
+> Yo te quiero ahora, la disco está a punto de cerrar,
+> Y yo solo quiero verte en la pista brillar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
